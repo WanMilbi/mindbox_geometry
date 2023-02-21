@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindbox_Geometry", "mindbox_Geometry\mindbox_Geometry.csproj", "{EAF7A4BB-266E-4845-B33A-254666550FB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mindbox_FiguresLibrary", "mindbox_FiguresLibrary\mindbox_FiguresLibrary.csproj", "{A0E7A92A-01B6-427D-9464-44DDCA530FA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTest", "mindbox_UnitTest\UnitTest.csproj", "{64C88AF0-F3DB-4859-80BF-C4BFC6B13F08}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EAF7A4BB-266E-4845-B33A-254666550FB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF7A4BB-266E-4845-B33A-254666550FB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF7A4BB-266E-4845-B33A-254666550FB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF7A4BB-266E-4845-B33A-254666550FB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0E7A92A-01B6-427D-9464-44DDCA530FA6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E7A92A-01B6-427D-9464-44DDCA530FA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E7A92A-01B6-427D-9464-44DDCA530FA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E7A92A-01B6-427D-9464-44DDCA530FA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C88AF0-F3DB-4859-80BF-C4BFC6B13F08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C88AF0-F3DB-4859-80BF-C4BFC6B13F08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C88AF0-F3DB-4859-80BF-C4BFC6B13F08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C88AF0-F3DB-4859-80BF-C4BFC6B13F08}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FECFD5DF-443B-4F7F-B509-B265E751335C}
+	EndGlobalSection
+EndGlobal
